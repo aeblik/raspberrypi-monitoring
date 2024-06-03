@@ -11,7 +11,7 @@ InfluxDB Setup: Configuring InfluxDB to run correctly in a Docker container and 
 Data Collection Script: Ensuring the Python script collected accurate CPU temperature and utilization data and successfully pushed it to InfluxDB involved troubleshooting and refining the script.
 Grafana Configuration: Connecting Grafana to InfluxDB and setting up the dashboard required careful configuration of data sources and queries.
 # Team Contribution
-This project was initially planned as a collaborative effort between two students. However, my partner David decided to leave the "Labs and Production" course to pursue "Digital Health". As a result, I completed this project independently.
+This project was initially planned as a collaborative effort between two students. However, my partner David decided to leave the "Labs and Production" course to pursue "Digital Health". As a result, I (Kai Aebli) completed this project independently.
 
 # Files Created
 Dockerfile: This file contains the instructions to build a Docker image for running the Python data collection script. It includes the necessary installations and setups to ensure the script runs correctly inside a Docker container.
